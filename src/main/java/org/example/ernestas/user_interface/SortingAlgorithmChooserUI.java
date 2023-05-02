@@ -1,4 +1,4 @@
-package org.example.ernestas.utils;
+package org.example.ernestas.user_interface;
 
 
 import org.example.ernestas.model.Student;
@@ -6,6 +6,8 @@ import org.example.ernestas.model.comparators.GradeComparator;
 import org.example.ernestas.sorters.BubbleSort;
 import org.example.ernestas.sorters.HeapSort;
 import org.example.ernestas.sorters.MergeSort;
+import org.example.ernestas.utils.FileChooser;
+import org.example.ernestas.utils.StudentsParser;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

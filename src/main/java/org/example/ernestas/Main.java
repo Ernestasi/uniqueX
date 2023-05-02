@@ -1,6 +1,6 @@
 package org.example.ernestas;
 
-import org.example.ernestas.utils.SortingAlgorithmChooserUI;
+import org.example.ernestas.user_interface.SortingAlgorithmChooserUI;
 
 import java.util.ArrayList;
 
